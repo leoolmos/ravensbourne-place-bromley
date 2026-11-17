@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T15:47:24+00:00",
+ "fetched_at": "2026-11-17T16:00:10+00:00",
  "source": "https://planningaccess.bromley.gov.uk/pr/s/detail/a0lTv000003RpUXIA0?c__r=Arcus_BE_Public_Register",
  "application": {
   "reference": "26/02199/OUT",
@@ -32,6 +32,16 @@
   "open_for_comments": true
  },
  "documents": [
+  {
+   "id": "068Tv00000oRwo0IAC",
+   "title": "AQN Technical Note #2 - Air Quality Neutral",
+   "category": "Supporting Document",
+   "date": "2026-11-13",
+   "published": "2026-11-17",
+   "ext": "pdf",
+   "size": 349948,
+   "url": "https://planningaccess.bromley.gov.uk/sfc/servlet.shepherd/version/download/068Tv00000oRwo0IAC"
+  },
   {
    "id": "068Tv00000nuBUUIA2",
    "title": "Representation - Redacted",
@@ -3562,6 +3572,6 @@
     "mentions_application": false
    }
   ],
-  "meetings_checked": "2026-11-16T15:47:24+00:00"
+  "meetings_checked": "2026-11-17T16:00:10+00:00"
  }
 }
