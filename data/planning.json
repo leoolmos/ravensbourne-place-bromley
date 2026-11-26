@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T17:14:05+00:00",
+ "fetched_at": "2026-11-26T16:54:36+00:00",
  "source": "https://planningaccess.bromley.gov.uk/pr/s/detail/a0lTv000003RpUXIA0?c__r=Arcus_BE_Public_Register",
  "application": {
   "reference": "26/02199/OUT",
@@ -32,6 +32,16 @@
   "open_for_comments": true
  },
  "documents": [
+  {
+   "id": "068Tv00000p6NUQIA2",
+   "title": "Landscape and Ecology Management Strategy",
+   "category": "Supporting Document",
+   "date": "2026-11-25",
+   "published": "2026-11-26",
+   "ext": "pdf",
+   "size": 902061,
+   "url": "https://planningaccess.bromley.gov.uk/sfc/servlet.shepherd/version/download/068Tv00000p6NUQIA2"
+  },
   {
    "id": "068Tv00000oRwo0IAC",
    "title": "AQN Technical Note #2 - Air Quality Neutral",
@@ -2125,7 +2135,7 @@
   {
    "id": "068Tv00000eU4KFIA0",
    "title": "ES - Vol 2 - Appendix D9 - Landscape and Ecological Management Strategy",
-   "category": "Supporting Document",
+   "category": "Superseded",
    "date": "2026-06-02",
    "published": "2026-06-04",
    "ext": "pdf",
@@ -3558,20 +3568,20 @@
     "mentions_application": false
    },
    {
+    "date": "2026-12-10",
+    "time": "7.30 pm",
+    "url": "https://cds.bromley.gov.uk/ieListDocuments.aspx?CId=133&MId=8516&Ver=4",
+    "agenda_published": false,
+    "mentions_application": false
+   },
+   {
     "date": "2027-01-21",
     "time": "7.30 pm",
     "url": "https://cds.bromley.gov.uk/ieListDocuments.aspx?CId=133&MId=8317&Ver=4",
     "agenda_published": false,
     "mentions_application": false
-   },
-   {
-    "date": "2027-03-11",
-    "time": "7.30 pm",
-    "url": "https://cds.bromley.gov.uk/ieListDocuments.aspx?CId=133&MId=8318&Ver=4",
-    "agenda_published": false,
-    "mentions_application": false
    }
   ],
-  "meetings_checked": "2026-11-25T17:14:05+00:00"
+  "meetings_checked": "2026-11-26T16:54:36+00:00"
  }
 }
